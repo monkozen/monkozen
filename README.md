@@ -1,4 +1,3 @@
-## GitHub Stats
+### Contributions
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edangsioco&show_icons=true&theme=bear)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edangsioco&layout=compact&theme=bear) <br/>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=monkozen&theme=github-compact&hide_border=true&hide_title=true)
